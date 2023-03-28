@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+    /* align-content: center; */
+    /* justify-content: center; */
+}
+
+th,td,table{
+    padding: 12px;
+    border: 2px solid whitesmoke;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
