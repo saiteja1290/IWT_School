@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+*{
+    margin: 0px;
+}
+body{
+    background-color: #f7f5ef;
+    color: #2d2926;
+}
+nav{
+    display: flex;
+    /* border: 1px solid black; */
+    margin: 40px;
+    color: rgb(39, 39, 39);
+    font-size: 12px;
+}
+.in{
+    display: flex;
+    margin-left: 27% ;
+}
+.inmates{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container{
+    /* border: 1px solid rgb(255, 220, 220); */
+    display: flex;
+    margin: 40px;
+}
+.cele{
+    /* border: 1px solid black; */
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+}
+.des{
+    color: #9c8a64;
+    margin-top: 10%;
+    /* border: 1px solid black; */
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    /* margin: 30px; */
+    /* margin: 12px; */
+}
+#yes{
+    margin: 40px;
+    width: 96%;
+}
+.awards{
+    /* display: flex; */
+    font-size: 30px;
+    margin: 40px;
+    font-family: 'Abril Fatface', cursive;
+}
+.container2{
+    margin: 40px;
+    display: flex;
+    justify-content: space-between
+}
+.cont{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.awa{
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 600;
+}
+.some{
+    display: flex;
+    margin: 40px;
+    /* justify-content: space-between; */
+}
+.pink{
+    background-color: #aa6b57;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.textss{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.avrko{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+}
+.arko2{
+    margin-top: 50px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.links{
+    margin-top: 50px;
+    /* margin: 50px; */
+    /* display: flex; */
+}
