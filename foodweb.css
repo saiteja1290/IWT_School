@@ -96,3 +96,77 @@ a{
     /* margin: 50px; */
     /* display: flex; */
 }
+.final{
+    display: flex;
+    justify-content: space-between;
+    background-color: #bdae8f;
+    color: #2d2926;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 100;
+
+}
+.selectedwork{
+    /* border: 1px solid black; */
+    width: 50%;
+    font-size: 35px;
+}
+.images5{
+    margin: 30px;
+    margin-right: 40px;
+}
+.select{
+    margin: 20px;
+    margin-left: 40px;
+}
+.viewall{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.yesss{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+.inmatess{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.line{
+    border: 0.5px solid #2d2926;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 80px;
+}
+.join{
+    text-align: center;
+    padding: 40px;
+}
+.fut{
+    display: flex;
+    justify-content: space-around;
+}
+.cities{
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+    margin: 20px;
+}
+.sitemap{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    font-size: 20px;
+}
+.stemapp{
+    margin: 20px;
+    font-weight: 600;
+}
+.inmatesye{
+    font-size: 15px;
+    margin: 20px;
+    margin-left: 0px;
+}
+.city{
+    margin: 20px;
+    margin-left: 0px;
+}
